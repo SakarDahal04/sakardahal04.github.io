@@ -1,11 +1,11 @@
 [
   {
-    "title": "API for Book Review Application",
-    "imageSrc": "projects/api.png",
-    "description": "Book Review API system with complete built-in authentication for user with email verification and user based review and book addition system.",
-    "skills": ["Django", "DRF", "JWT"],
+    "title": "E-Commerce Webisite",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "E-Commerce website with complete user authentication, product listing, cart system and payment gateway integration.",
+    "skills": ["Django", "DRF", "JWT", "React", "Stripe"],
     "demo": "#",
-    "source": "https://github.com/SakarDahal04/API-for-Book-Review-App"
+    "source": "https://github.com/SakarDahal04/E-Commerce_Internship_Frontend/tree/develop"
   },
   {
     "title": "Detection and Prevention of Citrus Diseases",
@@ -14,6 +14,14 @@
     "skills": ["Django",  "RAG", "DRF", "JWT","MobileNetV2", "Azure"],
     "demo": "#",
     "source": "https://github.com/SakarDahal04/Disease-Detection_Website"
+  },
+  {
+    "title": "API for Book Review Application",
+    "imageSrc": "projects/api.png",
+    "description": "Book Review API system with complete built-in authentication for user with email verification and user based review and book addition system.",
+    "skills": ["Django", "DRF", "JWT"],
+    "demo": "#",
+    "source": "https://github.com/SakarDahal04/API-for-Book-Review-App"
   },
   {
     "title": "URL Shortening Application",

@@ -8,6 +8,10 @@
     "imageSrc": "skills/django.png"
   },
   {
+    "title": "Next.JS",
+    "imageSrc": "skills/next.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
