@@ -19,7 +19,7 @@ export const Hero = () => {
         </p>
         <div className={styles.btnContainer}>
           <a
-            href="mailto:sakar1234dahal@email.com"
+            href="mailto:sakar1234dahal@gmail.com"
             className={styles.contactBtn}
           >
             Contact Me
